@@ -49,6 +49,5 @@
 	</a> -->
 	<br>
 </div>
-<div align=center>
-	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonjeongjeong&layout=compact">
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
