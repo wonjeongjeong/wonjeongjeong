@@ -4,7 +4,7 @@
 <br>
 <div align=center>
 	
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=hetty180)](https://solved.ac/hetty180)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hetty180)](https://solved.ac/hetty180)
 
 </div>
 <br>
