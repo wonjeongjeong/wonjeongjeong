@@ -2,9 +2,11 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Wandang%20Github!&fontSize=90" />	
 </div>
 <br>
-
+<div align=center>
+	
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=hetty180)](https://solved.ac/hetty180)
 
+</div>
 <br>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
